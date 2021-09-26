@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Anthony Spencer
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: Knn.py
+# SPECIFICATION: knn file for class
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
